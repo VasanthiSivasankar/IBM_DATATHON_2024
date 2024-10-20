@@ -1,8 +1,10 @@
-## Problem statement :
+## Problem Statement:
 
-Develop an AI-powered emergency response system that can predict patient outcomes in intensive care units (ICUs) by analyzing data from various sources, including vital signs, lab results, and medical devices. 
-The system will use machine learning algorithms to identify patterns that may indicate life-threatening injuries or complications, and provide healthcare providers with timely and accurate treatment recommendations.
-The goal of the project is to improve patient care, reduce mortality rates, and optimize resource allocation in ICUs, even for patients with no existing medical records in the hospital.
+ICU healthcare providers face the challenge of making rapid, accurate decisions for critically ill patients, especially when there's an absence of medical records. With the vast amounts of real-time data from vital signs, lab results, and medical devices, manually monitoring patients can lead to delays or missed warning signs of life-threatening complications.
+
+## Example Case:
+
+A 45-year-old male with no prior medical records is admitted to the ICU after a car accident. His vital signs are unstable, and the medical team needs to act fast. An AI-powered system analyzes real-time data, detecting early signs of complications, such as infection or internal injury. It alerts the team and recommends timely interventions, preventing further deterioration and optimizing care. The system helps reduce mortality rates and improves resource allocation, even without existing patient data.
 
 ## Solution :
 
