@@ -10,7 +10,7 @@ A 45-year-old male with no prior medical records is admitted to the ICU after a 
 
 An AI-powered emergency response system, addresses this critical issue by leveraging machine learning algorithms to analyze data from various sources, identify patterns, and predict patient outcomes. 
 This innovative solution integrates with existing hospital systems and medical devices, providing healthcare providers with timely and accurate treatment recommendations, enabling them to make informed 
-decisions and improve patient care.
+decisions and improve patient care. And in situations when there are more patient load, the model will give whom to address first based on the priority.
 
 ## Datasets :
 
